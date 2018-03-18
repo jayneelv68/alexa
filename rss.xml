@@ -1,22 +1,65 @@
-Content-Type: application/rss+xml
-...
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <ttl>30</ttl>
+        <title>jayneelvora.com</title>
+        <link>jayneelvora.com</link>
+        <description>
+            This feed was created by mixing existing feeds from various sources.
+        </description>
+        <generator>Jayneel Vora</generator>
         <item>
-            <title>Multi Item RSS (TTS)</title>
-            <link>https://www.amazon.com</link>
-            <pubDate>2016-05-23T00:00:00.0Z</pubDate>
-            <description>This channel has multiple TTS RSS items. This is item one.</description>
-            <guid>urn:uuid:b385254e-dc31-4c4a-afc5-0de97e43923c</guid>
+            <title>
+                Karthik's eight-ball blitz seals Nidahas Trophy for India
+            </title>
+            <link>
+                https://jayneelvora.com
+            </link>
+        
+        
+            <post-id xmlns="com-wordpress:feed-additions:1">1</post-id>
+            <description>
+                <p>t's not always that an eight-ball performance is awarded the Man of the Match. But Sunday was different. When Dinesh Karthik walked out to bat at the end of the 18th over, India were left needing 34 runs. Having been ahead in the chase for most parts of the game, they had just handed over the initiative to Bangladesh. Mustafizur Rahman had just finished his spell, with his last over costing only a solitary run - a leg bye - and the wicket of Manish Pandey. With Vijay Shankar struggling to connect, the onus was completely on Karthik to do the finishing job.</p>
+            </description>
+            <content:encoded><p>
+                It's not always that an eight-ball performance is awarded the Man of the Match. But Sunday was different. When Dinesh Karthik walked out to bat at the end of the 18th over, India were left needing 34 runs. Having been ahead in the chase for most parts of the game, they had just handed over the initiative to Bangladesh. Mustafizur Rahman had just finished his spell, with his last over costing only a solitary run - a leg bye - and the wicket of Manish Pandey. With Vijay Shankar struggling to connect, the onus was completely on Karthik to do the finishing job.
+                
+                The wicketkeeper-bat made a storming entry. Standing outside the crease to Bangladesh's fastest bowler - Rubel Hossain - he tonked a six straight down the ground, and followed it up with a boundary and another six off the next two to bring the equation down quickly. Those in the crowd that had gone silent in Colombo's R Premadasa Stadium soon found their voices back and set loose their naagin dance moves.
+                
+                While Karthik set his foot on the accelerator in no time, Shankar's struggle continued. He found the bat-ball connect in the final over and cut the third delivery for a boundary but perished the next ball while looking to clear the boundary ropes straight down the ground.
+                
+                The nervousness was palpable everywhere. Soumya Sarkar, bowling the last over, called for water midway through the over, faces in the Indian dressing too room had turned pale. But one man kept his cool. Needing five runs of the last ball, Karthik stretched wide towards a full delivery on the off and hit it over the extra cover boundary for a six. Sarkar, who was filling in for the overs that the frontline offspinners couldn't bowl, fell to the ground dejected while simultaneously the Indian team members ran on to the field to huddle around Karthik in celebration.
+                
+                A tournament that was running on very little relevance and over-familiarity of opposition had finished on a highly emotional note. India won the Nidahas Trophy of the last ball of the tournament with four wickets in hand.
+                
+                Earlier in the day, India won the toss and elected to field with Rohit Sharma expecting the pitch to play out better for the batters in the second innings. While India drafted Jaydev Unadkat back in to the side in place of Mohammed Siraj, Bangladesh played an unchanged XI.
+                
+                Bangladesh began with a different approach on Sunday, with the openers Tamim Iqbal and Liton Das not going berserk with their shot-making. While they scored at a good pace, the risks had all been expertly calculated. However, the good start was abruptly halted by the spin duo - Washington Sundar and Yuzvendra Chahal, who snared three wickets in a space of 11 balls.
+                
+                While Liton top edged a sweep to Suresh Raina at square leg, Tamim Iqbal holed out to Shardul Thakur at long on. Sarkar's stay at the wicket ended in the second ball as he swept Chahal straight to Shikhar Dhawan at square leg.
+                
+                Nonetheless, led by Sabbir Rahman, Bangladesh resurrected their innings. Sabbir found the company of Mushfiqur Rahim, but the experienced batter failed to get his innings moving as freely. He kept unleashing the sweep shot but didn't get the kind of effect that he has been able to in this tournament. Some smart bowling and field placements ensured Rahim wasn't getting the desired result.
+                
+                Nonetheless, Sabbir batted without much difficulty. With the frontline bowlers maintaining disciplined lines and lengths, he took on Vijay Shankar. The medium pacer, who bowled through the middle overs, was tonked for 48 runs from his four. With Mahmudullah also finding his groove, Bangladesh looked set for a decent total before harakiri ensued in the running between the wickets. In a span of 16 balls Mahmudullah and Shakib Al Hasan were run out, leaving Sabbir to take the charge of the death overs.
+                
+                He accelerated further after reaching his half century and placed Bangladesh well to go past the 150-run mark. He was bowled in the penultimate over by Unadkat, who then followed it up by snaring Rubel Hossain a ball later. Even as all the frontline batsmen were dismissed, an unpleasant treat awaited India in the form of Mehidy Hasan. The young allrounder picked up Shardul Thakur's knuckle balls with ease and hit him for 18 runs in the final over to power the team to 166 for 8.
+                
+                India's reply began on fifth gear, with both Shikhar Dhawan and Rohit Sharma unleashing themselves on the spin duo of Shakib and Medidy, who opened the bowling for Bangladesh. Such was the carnage by Rohit, who hit two sixes of the Mehidy, that the offspinner never returned to bowl. In fact, for the rest of Bangladesh's innings, no other offspinner bowled. Instead of Mahmudullah and Sabbir, Soumya Sarkar was left to fill up those three overs.
+                
+                Even as Dhawan and Raina fell in quick succession in the powerplay, Rohit and KL Rahul ensured Bangladesh never gained an upper hand. They continued stroking boundaries with ease and scoring at a good clip. The duo put on 51-run stand off only six overs before Rahul was caught pulling Rubel at deep square leg.
+                
+                Nonetheless, Rohit continued his assault on the Bangladesh bowlers. In the process of his 56 - his 14th T20I fifty - he also became the third Indian to register 7000 T20 runs. However, he departed soon after, holing out to Mahmadullah at long on, in his bid to clear Nazmul Islam out of the ground.
+                
+                And the game which was India's for all the while, changed soon after. Even as Manish Pandey, who was off to a slow start, went up his gears, Shankar failed to get the bat down on time and connect with the ball. Their 28-ball alliance yielded only 33 runs - at a time when India were needing nearly 10-an-over.
+                
+                Pandey had to take the onus of scoring the big shots. And then he connected the last ball of the 18th over by Mustafizur, only for the ball to find great height but no distance. Two fielders came under it; one bounced the ball off his hands, the other took it. Bangladesh celebrated that catch. In hindsight, probably they shouldn't have. Pandey walked off the field, Karthik walked in.
+                
+                Brief Scores: Bangladesh 166/8 in 20 overs (Sabbir Rahman 77, Mahmudullah 21; Yuzvendra Chahal 3-18, Jaydev Unadkat 2-33) lost to India 168/6 in 20 overs (Rohit Sharma 56, Dinesh Karthik 29*; Rubel Hossain 2-35, Mustafizur Rahman 1-21) by 4 wickets</p>
+            </content:encoded>
+            
+            <category>cricket</category>
+            <pubDate>Fri, 18 Mar 2018 19:30:42 GMT</pubDate>
+            
+            <dc:creator>Jayneel Vora</dc:creator>
+            <dc:date>2018-03-18T19:30:42Z</dc:date>
         </item>
-        <item>
-            <title>Multi Item RSS (TTS)</title>
-            <link>https://www.amazon.com</link>
-            <pubDate>2016-05-23T00:00:00.0Z</pubDate>
-            <description>This channel has multiple TTS RSS items. This is item two.</description>
-            <guid>urn:uuid:cf093eed-66f2-4dee-bdad-02ff0510194b</guid>
-        </item>
-    </channel>
+</channel>
 </rss>
