@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>jayneelvora.com</title>
@@ -62,4 +63,6 @@
             <dc:date>2018-03-18T19:30:42Z</dc:date>
         </item>
 </channel>
+
+  </channel>
 </rss>
