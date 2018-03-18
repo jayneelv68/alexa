@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>na news</title>
+        <description>The latest news from na</description>
+        <copyright>Copyright © na 2018</copyright>
+        <ttl>60</ttl>
+        <lastBuildDate>Sun, 18 Mar 2018 20:40:43 GMT</lastBuildDate>
+        <item>
+            <title>Karthik's eight-ball blitz seals Nidahas Trophy for India</title>
+            <description>It's not always that an eight-ball performance is awarded the Man of the Match. But Sunday was different. When Dinesh Karthik walked out to bat at the end of the 18th over, India were left needing 34 runs. Having been ahead in the chase for most parts of the game, they had just handed over the initiative to Bangladesh. Mustafizur Rahman had just finished his spell, with his last over costing only a solitary run - a leg bye - and the wicket of Manish Pandey.</description>
+            <guid isPermaLink="false">0b4327a70ac44cf2a47603ea35bdc98d</guid>
+            <pubDate>Sun, 18 Mar 2018 20:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>na creates new RSS feed</title>
+            <description>First news item for na</description>
+            <guid isPermaLink="false">582b73f9a8a2475baa618321c42072a0</guid>
+            <pubDate>Sun, 18 Mar 2018 20:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title>Jayneel Vora set up account</title>
+            <description>RSS feed was set up by Jayneel Vora</description>
+            <guid isPermaLink="false">5d045525dde3431db306ee59f423d8e9</guid>
+            <pubDate>Sun, 18 Mar 2018 20:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>News item 3 title</title>
+            <description>Third news item for na</description>
+            <guid isPermaLink="false">750a1b3db2d9425f8f940424681dab4d</guid>
+            <pubDate>Sun, 18 Mar 2018 20:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title>News item 4 title</title>
+            <description>Forth news item for na</description>
+            <guid isPermaLink="false">9493dfc043574f129c5c9f9f2cd3e821</guid>
+            <pubDate>Sun, 18 Mar 2018 20:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>News item 5 title</title>
+            <description>Fifth news item for na</description>
+            <guid isPermaLink="false">925fd2dcf18245439ce0ef25dbbd21f5</guid>
+            <pubDate>Sun, 18 Mar 2018 20:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>News item 6 title</title>
+            <description>Sixth news item for na</description>
+            <guid isPermaLink="false">0ab370d38c7c4ebf898bf40d10de6b63</guid>
+            <pubDate>Sun, 18 Mar 2018 20:38:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
+
