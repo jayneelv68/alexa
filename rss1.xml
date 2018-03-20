@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>na news</title>
-        <description>The latest news from na</description>
+        <title>CricketTeller</title>
+        <description>The latest news from your CricketDiary</description>
         <copyright>Copyright Rockstars 2018-</copyright>
         <ttl>60</ttl>
         <lastBuildDate>2018-03-20 11:21:20.307823 GMT</lastBuildDate>
