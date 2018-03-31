@@ -5,20 +5,14 @@
 		<link>jayneelvora.com</link>
 		<description>My personal webpage</description>
 		<language>en-us</language>
-		<copyright><![CDATA[ NONE ]]></copyright>
-		<image>
-			<url></url>
-			<title>Jayneel Vora</title>
-			<link>jayneelvora.com</link>
-		</image>
+
 		<item>
 			<title>CricketDiary</title>
 			<link>https://raw.githubusercontent.com/jayneelv68/alexa/master/rss1.xml</link>
 			<pubDate>Sat, 31  2018 12:00:00 GMT</pubDate>
 			<author>Jayneel Vora</author>
 			<category>Cricket</category>
-			<description><![CDATA[ 
-			<h1>CricketDiary</h1>
+			<description>
 			
 David Warner, who was caught in the middle of the storm during the third day's play of the Newlands Test in Cape Town, took "full responsibility" for his involvement in the unceremonious ball-tampering episode and admitted that his actions were "inexcusable".
 
@@ -27,7 +21,7 @@ Speaking to the media for the first time in Sydney since the incident sent shock
 "I've let you down badly," Warner said on Saturday (March 31). "I hope in time I'm able to repay all you've given me and possibly earn your respect again. To my teammates, I apologise and take full responsibility. To CA, I apologise for my actions and the effect it has had on our game under your care and control," Warner added.
 
 "I want you to know I fully support your review. To South Africa players, administrators and fans, I apologise unreservedly for my part in this. I've brought the game in disrepute on your soil. South Africa is a fine cricketing nation and deserves better from its guests and deserved better from me," the 30-year-old added.
-			]]></description>
+			</description>
 		</item>
 		<item>
 			<title>CricketDiary</title>
@@ -35,7 +29,7 @@ Speaking to the media for the first time in Sydney since the incident sent shock
 			<pubDate>Sat, 31  2018 12:00:00 GMT</pubDate>
 			<author>Jayneel Vora</author>
 			<category>Cricket</category>
-			<description><![CDATA[ 
+			<description>
 			<h1>CricketDiary</h1>
 			
 Alex Hales, England's explosive opener, has been picked by the SunRisers Hyderabad as replacement for David Warner. The batsman was bought for his base price of INR 1 crore from the Registered and Available Player Pool (RAPP) list, a BCCI release stated on Saturday (March 31).
@@ -45,7 +39,7 @@ Having lost their otherwise captain, Warner, to the ball-tampering scandal in So
 Warner's loss will be a massive void to fill for the franchise given that the Australian opener had been a vital cog in SRH's fortunes over the years. He not just scored 2579 runs in 59 innings at a whopping average of 52.63 and an enviable strike-rate of 147.70, but also led Sunrisers to title glory in 2016. Thus, it was no wonder that the Sunrisers had used their Right-to-Match card to retain Warner.
 
 
-			]]></description>
+			</description>
 		</item>
 	</channel>
 </rss>
