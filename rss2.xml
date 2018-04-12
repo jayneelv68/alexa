@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>top-News</title>
-		<description>top agrar | top-News für die Landwirtschaft </description>
-		<link>https://www.jayneelvora.com</link>
-		<pubDate>Thu, 12 Apr 2018 14:19:00 +0200</pubDate>
-		
-		<item>
-			<title>Trial 1</title>
-			<description>
-			
-				HEllo There!
-			
-			</description>
-          <pubDate>Thu, 12 Apr 2018 14:16:00 +0200</pubDate>
-		</item>
-				
-				
-				
-			</channel>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
+      <title>Amazon Developer Blog, week in review May 23rd</title>
+      <link>https://developer.amazon.com/public/community/blog</link>
+      <pubDate>2016-05-23T00:00:00.0Z</pubDate>
+      <description>
+        Meet Echosim. A new online community tool for developers that simulates the look and feel of an Amazon Echo. With 3D JavaScript animations and Alexa Voice Service integration, Echosim gives users the ability to experience a realistic interaction with Alexa capabilities and skills. Echosim lives in your browser, so anyone, anywhere can access it and test their Alexa skills.
+        You no longer need an Alexa device to test your skills. Developers worldwide can use Echosim to experience Alexa.
+      </description>
+     </item>
+  </channel>
 </rss>
