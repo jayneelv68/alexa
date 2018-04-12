@@ -1,45 +1,513 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Jayneel Vora</title>
-		<link>jayneelvora.com</link>
-		<description>My personal webpage</description>
-		<language>en-us</language>
-
-		<item>
-			<title>CricketDiary</title>
-			<link>https://raw.githubusercontent.com/jayneelv68/alexa/master/rss1.xml</link>
-			<pubDate>Sat, 31  2018 12:00:00 GMT</pubDate>
-			<author>Jayneel Vora</author>
-			<category>Cricket</category>
-			<description>
-			
-David Warner, who was caught in the middle of the storm during the third day's play of the Newlands Test in Cape Town, took "full responsibility" for his involvement in the unceremonious ball-tampering episode and admitted that his actions were "inexcusable".
-
-Speaking to the media for the first time in Sydney since the incident sent shock waves around the world, the opener apologised unreservedly to Cricket Australia and his teammates, and also to South African team, its administrators and fans.
-
-"I've let you down badly," Warner said on Saturday (March 31). "I hope in time I'm able to repay all you've given me and possibly earn your respect again. To my teammates, I apologise and take full responsibility. To CA, I apologise for my actions and the effect it has had on our game under your care and control," Warner added.
-
-"I want you to know I fully support your review. To South Africa players, administrators and fans, I apologise unreservedly for my part in this. I've brought the game in disrepute on your soil. South Africa is a fine cricketing nation and deserves better from its guests and deserved better from me," the 30-year-old added.
-			</description>
+		<title>top-News</title>
+		<description>top agrar | top-News für die Landwirtschaft </description>
+		<link>https://www.topagrar.com</link>
+		<atom:link href="https://www.topagrar.com/rss/top-News-60558.xml" rel="self" type="application/rss+xml" />
+		<pubDate>Thu, 12 Apr 2018 14:19:00 +0200</pubDate>
+		<language>de</language>
+		<copyright>www.topagrar.com</copyright>
+		<image>
+			<url>https://www.topagrar.com/imgs/4/6/0/2/2/0f75e8e0906cc7cd.jpg</url>
+			<title>top-News</title>
+			<link>https://www.topagrar.com</link>
+			<description>top agrar | top-News für die Landwirtschaft </description>
+		</image>
+				<item>
+			<title><![CDATA[EU-Vorschlag gegen unfairen Handel stößt auf offene Ohren]]></title>
+			<description><![CDATA[In Deutschland werden die Vorschläge von EU-Agrarkommissar Phil Hogan gegen unfaire Handelspraktiken wohlwollend aufgenommen. Bundeslandwirtschaftsministerin Julia Klöckner will kleinere Landwirtschaftsbetriebe vor Benachteiligungen in der Lieferkette schützen. Der Deutsche Bauernverband (DBV) fordert mehr Einsatz.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/6/4/4/9/5c8b0008b9d7b8f5.jpg" length="41737"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/6/4/4/9/5c8b0008b9d7b8f5.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-EU-Vorschlag-zu-unlauterem-Handel-geht-DBV-nicht-weit-genug-9149612.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-EU-Vorschlag-zu-unlauterem-Handel-geht-DBV-nicht-weit-genug-9149612.html]]></link>
+			<pubDate>Thu, 12 Apr 2018 14:16:00 +0200</pubDate>
 		</item>
-		<item>
-			<title>CricketDiary</title>
-			<link>https://raw.githubusercontent.com/jayneelv68/alexa/master/rss1.xml</link>
-			<pubDate>Sat, 31  2018 12:00:00 GMT</pubDate>
-			<author>Jayneel Vora</author>
-			<category>Cricket</category>
-			<description>
-			<h1>CricketDiary</h1>
-			
-Alex Hales, England's explosive opener, has been picked by the SunRisers Hyderabad as replacement for David Warner. The batsman was bought for his base price of INR 1 crore from the Registered and Available Player Pool (RAPP) list, a BCCI release stated on Saturday (March 31).
-
-Having lost their otherwise captain, Warner, to the ball-tampering scandal in South Africa which subsequently had him banned from the Indian Premier League 2018 by the BCCI along with Steve Smith, Sunrisers named Kane Williamson to take over the reins. However, to fulfill the role of an opener that Warner would've fulfilled along side Shikhar Dhawan, SRH decided to pick Hales, who is the first and only English player till date to score a T20I century.
-
-Warner's loss will be a massive void to fill for the franchise given that the Australian opener had been a vital cog in SRH's fortunes over the years. He not just scored 2579 runs in 59 innings at a whopping average of 52.63 and an enviable strike-rate of 147.70, but also led Sunrisers to title glory in 2016. Thus, it was no wonder that the Sunrisers had used their Right-to-Match card to retain Warner.
-
-
-			</description>
+				<item>
+			<title><![CDATA[Grüne wollen ihre Position zur Gentechnik hinterfragen]]></title>
+			<description><![CDATA[Die Grünen wollen in ihrer am Wochenende startenden Programmdebatte ihre kompromisslose Ablehnung der Grünen Gentechnik hinterfragen. Die beiden neuen Parteivorsitzenden Annalena Baerbock und Robert Habeck geben dafür eine ungewöhnlich offene Formulierung vor. In der Partei regt sich aber schon Widerstand.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/5/1/5/3/816089737ba9d3d0.jpg" length="41164"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/5/1/5/3/816089737ba9d3d0.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Gruene-wollen-ihre-Position-zur-Gentechnik-hinterfragen-9147845.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Gruene-wollen-ihre-Position-zur-Gentechnik-hinterfragen-9147845.html]]></link>
+			<pubDate>Thu, 12 Apr 2018 10:47:00 +0200</pubDate>
 		</item>
-	</channel>
+				<item>
+			<title><![CDATA[Große Bio-Hühnerställe sind rechtlich sauber]]></title>
+			<description><![CDATA[Der Bericht des Senders rbb über große ökologisch wirtschaftende Hennenbetriebe in Brandenburg hat nun auch Landesagrarminister Jörg Vogelsänger zu einer Klarstellung genötigt. Gegenüber der Landtagsfraktion der Grünen bestätigte der SPD-Politiker, dass es im Land drei Bio-Betriebe gebe, die bis zu 39.000 Hennen halten]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/5/1/8/6/c1190497d16580b7.jpg" length="16290"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/5/1/8/6/c1190497d16580b7.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Grosse-Bio-Huehnerstaelle-sind-rechtlich-sauber-9147905.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Grosse-Bio-Huehnerstaelle-sind-rechtlich-sauber-9147905.html]]></link>
+			<pubDate>Thu, 12 Apr 2018 12:28:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Brüssel will seine Schubladen für alle EU-Bürger gläsern machen]]></title>
+			<description><![CDATA[Die EU-Kommission zieht Lehren aus der Kritik an Glyphosat-Studien, an denen die Hersteller angeblich mitgearbeitet haben sollen, und geht auf Teil-Forderungen der Europäischen Bürgerinitiative (ECI) “Ban Glyphosate“ ein.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/6/3/0/0/e690c4c603880a3d.jpg" length="13441"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/6/3/0/0/e690c4c603880a3d.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Bruessel-will-seine-Schubladen-fuer-alle-EU-Buerger-glaesern-machen-9149284.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Bruessel-will-seine-Schubladen-fuer-alle-EU-Buerger-glaesern-machen-9149284.html]]></link>
+			<pubDate>Thu, 12 Apr 2018 08:00:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[51a-Gesellschaften: Das sind die Knackpunkte  ]]></title>
+			<description><![CDATA[Finanzämter beobachten Kooperationen in der Tierhaltung besonders kritisch. Entsprechend oft gibt es Streit. top agrar-Redakteur Diethard Rolink und Steuerberaterin Lia Steffensen zeigen für die Aprilausgabe der top agrar, wo es in der Praxis besonders hakt und wie Sie sich dagegen wehren können.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/6/1/6/27321faa561a1481.jpg" length="13935"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/6/1/6/27321faa561a1481.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-51a-Gesellschaften-Das-sind-die-Knackpunkte-9146906.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-51a-Gesellschaften-Das-sind-die-Knackpunkte-9146906.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 10:06:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Bauernbund kritisiert Firmenkauf durch Energie-Unternehmer Gerhold]]></title>
+			<description><![CDATA[Der Deutsche Bauernbund aus Quedlinburg kritisiert den Kauf eines Agrarbetriebes durch eine Firma des Magdeburger Energie-Unternehmers Karl Gerhold. "Nicht finanzstarke Geschäftsleute, sondern Bauern sollten Betriebe und Ackerboden erwerben", sagte Bauernbund-Präsident Kurt-Henning Klamroth.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/8/7/7/6a301c4bc1d4c4ec.jpg" length="13760"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/8/7/7/6a301c4bc1d4c4ec.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Bauernbund-kritisiert-Firmenkauf-durch-Energie-Unternehmer-Gerhold-9147422.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Bauernbund-kritisiert-Firmenkauf-durch-Energie-Unternehmer-Gerhold-9147422.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 13:24:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Hochland steigert Umsatz in ausländischen Märkten ]]></title>
+			<description><![CDATA[Trotz steigender Rohstoffpreise in Deutschland und trotz der Preisschlacht in den USA nach der Übernahme von Franklin Foods: Der Umsatz der Hochland Gruppe in 2017 ist durch Akquisition des US-amerikanischen Frischkäsespezialisten Franklin Foods um rund 20 Prozent gestiegen. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/5/2/1/8/64078db2fb1325f1.jpg" length="14507"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/5/2/1/8/64078db2fb1325f1.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Hochland-steigert-Umsatz-in-auslaendischen-Maerkten-9147957.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Hochland-steigert-Umsatz-in-auslaendischen-Maerkten-9147957.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 16:08:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Wolf soll ins Bundesjagdgesetz]]></title>
+			<description><![CDATA[Der Deutsche Jagdverband (DJV) fordert zeitnah die Aufnahme des Wolfs in das Bundesjagdgesetz, um bundeseinheitliche Regelungen zum künftigen Umgang mit dem Wolf auszugestalten. Eine generelle Bejagung ist damit aber nicht möglich, da der große Fleischfresser über die FFH-Richtlinie weiterhin streng geschützt ist.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/8/3/0/76ba8c514cc8204a.jpg" length="69515"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/8/3/0/76ba8c514cc8204a.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Wolf-soll-ins-Bundesjagdgesetz-9147316.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Wolf-soll-ins-Bundesjagdgesetz-9147316.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 13:14:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Insektenschwund: Schulze-Föcking schlägt neues Forschungszentrum in Bonn vor]]></title>
+			<description><![CDATA[Die Landwirtschaftsministerin von Nordrhein-Westfalen, Christina Schulze Föcking, schlägt den Aufbau eines neuen Biodiversitätsforschungszentrums in Bonn vor. Es soll dem Insektenschwund auf den Grund gehen und langfristig Daten und Aufklärung über Biodiversitäts-Änderungen liefern.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/5/2/6/9/9a7f8e4389fefba0.jpg" length="15719"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/5/2/6/9/9a7f8e4389fefba0.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Insektenschwund-Schulze-Foecking-schlaegt-neues-Forschungszentrum-in-Bonn-vor-9148042.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Insektenschwund-Schulze-Foecking-schlaegt-neues-Forschungszentrum-in-Bonn-vor-9148042.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 18:34:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Ländlicher Raum wartet auf Investitionen]]></title>
+			<description><![CDATA[Merkels neues Bundeskabinett hat seine erste Klausur in Meseberg abgeschlossen. Agrarthemen haben vordergründig keine große Rolle gespielt. Über Investitionen in die digitale Infrastruktur soll in den nächsten Monaten in Berlin verhandelt werden.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/9/7/8/8c917ddb4480624e.jpg" length="65411"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/9/7/8/8c917ddb4480624e.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Laendlicher-Raum-wartet-auf-Investitionen-9147524.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Laendlicher-Raum-wartet-auf-Investitionen-9147524.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 16:29:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[DLG-Medaille für Wurst aus Separatorenfleisch?]]></title>
+			<description><![CDATA[Das ZDF-Magazin "Frontal 21" hat für seine Ausgabe am Dienstag die Deutsche Landwirtschafts-Gesellschaft (DLG) reingelegt. Der Sender hat nach Infos über angebliche Panschereien der Wursthersteller eine eigene Wurst kreiert und diese bei der DLG zur Prämierung eingereicht. Die Wurst erhielt die Silbermedaille.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/5/7/6/07ba9b085f87db6f.jpg" length="14399"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/5/7/6/07ba9b085f87db6f.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-DLG-Medaille-fuer-Wurst-aus-Separatorenfleisch-9146707.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-DLG-Medaille-fuer-Wurst-aus-Separatorenfleisch-9146707.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 11:19:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Wölfe in Niedersachsen reißen mehr Nutzvieh]]></title>
+			<description><![CDATA[Nach einer Meldung des Norddeutschen Rundfunks haben Wölfe in Niedersachsen 2017 über doppelt so viel Nutzvieh gerissen, als ein Jahr zuvor. Konkret waren das 403 Tiere, 2016 waren es noch 178. Das Wolfsmonitoring listet auch für die ersten vier Monate dieses Jahres 49 Ereignisse mit 110 verendeten Tieren.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/5/4/1/8ef06194c750be21.jpg" length="48163"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/5/4/1/8ef06194c750be21.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Woelfe-in-Niedersachsen-reissen-mehr-Nutzvieh-9146545.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Woelfe-in-Niedersachsen-reissen-mehr-Nutzvieh-9146545.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 09:28:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Räpple ärgert sich über unfachliche Diskussionen]]></title>
+			<description><![CDATA[„Ich habe kein Verständnis dafür, dass Landwirtschaft undifferenziert und ohne Fachkenntnisse an den Pranger gestellt wird!“. Das sagte der Präsident des Badischen Landwirtschaftlichen Hauptverbandes, Werner Räpple im März bei der BLHV-Landesversammlung in Hilzingen.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/5/3/9/d6ea8fc4df696c7d.jpg" length="14369"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/5/3/9/d6ea8fc4df696c7d.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Raepple-aergert-sich-ueber-unfachliche-Diskussionen-9146531.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Raepple-aergert-sich-ueber-unfachliche-Diskussionen-9146531.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 19:12:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Fischsterben nach Gülleunfall wird untersucht]]></title>
+			<description><![CDATA[Vermutlich aufgrund eines Lecks in einer Biogasanlage in Hayn hat es ein Fischsterben in der Wipper gegeben. Wie der Kreisanglerverband Mansfeld-Südharz laut dem MDR sagte, sollen am Wochenende tausende Liter Gülle und Gärreste über eine Wiese in den Fluss geflossen sein. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/2/9/4/8c57c686566e6a27.jpg" length="5248"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/2/9/4/8c57c686566e6a27.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Fischsterben-nach-Guelleunfall-wird-untersucht-9145923.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Fischsterben-nach-Guelleunfall-wird-untersucht-9145923.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 13:15:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Zahl der Nandus ging leicht zurück]]></title>
+			<description><![CDATA[Bei der diesjährigen Frühjahrszählung der Nandus am 23. März im UNESCO-Biosphärenreservat Schaalsee wurden insgesamt 205 Nandus gezählt.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/2/3/1/f47908ccfa139e26.jpg" length="25873"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/2/3/1/f47908ccfa139e26.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Zahl-der-Nandus-ging-leicht-zurueck-9145840.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Zahl-der-Nandus-ging-leicht-zurueck-9145840.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 10:21:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Noch keine deutsche CETA-Ratifizierung]]></title>
+			<description><![CDATA[Die Bundesregierung hat bislang noch kein Vertragsgesetz zur Ratifizierung des Ende September 2017 vorläufig in Kraft getretenen Freihandelsabkommens zwischen der Europäischen Union und Kanada (CETA) eingebracht.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/6/0/1/dcd22d5bb1582670.jpg" length="12020"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/6/0/1/dcd22d5bb1582670.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Noch-keine-deutsche-CETA-Ratifizierung-9146807.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Noch-keine-deutsche-CETA-Ratifizierung-9146807.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 09:16:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Hektarnektar.com: jetzt Bienen online buchen]]></title>
+			<description><![CDATA[Bienenvölker einfach per Mausklick im Internet bestellen – das ist seit November 2017 auf der Seite hektarnektar.com möglich. Die Plattform will Imker, Landwirte, Bienenzüchter und andere Unternehmen näher zusammenbringen. Am Dienstag waren die beiden Gründer der Onlineseite zu Besuch im Landwirtschaftsverlag.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/4/1/4/b99a691f45f873d0.jpg" length="13750"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/4/1/4/b99a691f45f873d0.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Hektarnektar-com-jetzt-Bienen-online-buchen-9146215.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Hektarnektar-com-jetzt-Bienen-online-buchen-9146215.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 16:32:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Brüssel will unfairen Handelspraktiken Riegel vorschieben]]></title>
+			<description><![CDATA[Brüssel bricht eine Lanze für Europas Bauern: Die Geschäftsbeziehungen zwischen Erzeugern und Handel sollen auf eine neue Grundlage gestellt werden. Die bisherigen einseitigen Abhängigkeiten - oft zu Lasten von Landwirten und kleinen Erzeugergemeinschaften - sollen der Vergangenheit angehören.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/4/6/7/c44662e7bd8dc2af.jpg" length="53027"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/4/6/7/c44662e7bd8dc2af.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Bruessel-will-unfairen-Handelspraktiken-Riegel-vorschieben-9146368.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Bruessel-will-unfairen-Handelspraktiken-Riegel-vorschieben-9146368.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 17:30:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Berechnung der Grundsteuer ist verfassungswidrig ]]></title>
+			<description><![CDATA[Die derzeit praktifizierte Berechnung der Grundsteuer ist verfassungswidrig. Bis Ende 2019 muss die Bundesregierung nun ein neues System auf den Weg bringen. Beanstandet wird vor allem die veraltete Bewertung von bebauten Grundstücken. Land- und Forstflächen könnten ausgespart bleiben.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/3/8/1/366b1fed9eebbeda.jpg" length="21629"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/3/8/1/366b1fed9eebbeda.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Berechnung-der-Grundsteuer-ist-verfassungswidrig-9146136.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Berechnung-der-Grundsteuer-ist-verfassungswidrig-9146136.html]]></link>
+			<pubDate>Wed, 11 Apr 2018 16:29:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Fernsehsender dürfen heimliche Aufnahmen zeigen]]></title>
+			<description><![CDATA[Fernsehsender dürfen heimlich angefertigte Aufnahmen aus Ställen zeigen, wenn sie damit Verstöße von öffentlichem Interesse offenlegen. Das Aufdecken von Missständen würde den Hausfriedensbruch überwiegen, urteilte heute der Bundesgerichtshof (BGH) und gab damit dem Mitteldeutschen Rundfunk (MDR) Recht.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/3/0/6/b85e85cd243ed656.jpg" length="60414"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/3/0/6/b85e85cd243ed656.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Fernsehsender-duerfen-heimliche-Aufnahmen-zeigen-9145965.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Fernsehsender-duerfen-heimliche-Aufnahmen-zeigen-9145965.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 13:50:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Grünes Licht für Bayer Monsanto Fusion aus den USA]]></title>
+			<description><![CDATA[Das US-Justiz Department macht den Weg frei für die Übernahme von Monsanto durch die Bayer AG. Dies meldet das Wall Street Journal (WSJ)  in Washington. Nach der Ende März von der EU-Wettbewerbsbehörde unter Auflagen genehmigten Fusion, steht dem Mega Deal der beiden global player nichts mehr im Wege.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/4/6/f22b94bff606787c.jpg" length="12275"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/4/6/f22b94bff606787c.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Gruenes-Licht-fuer-Bayer-Monsanto-Fusion-aus-den-USA-9145304.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Gruenes-Licht-fuer-Bayer-Monsanto-Fusion-aus-den-USA-9145304.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 15:39:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Agrarhochschulranking: Benote Deine Hochschule! ]]></title>
+			<description><![CDATA[Zum sechsten Mal startet das Agrarhochschulranking in diesem Jahr. Wo sollte Eure Hochschule noch besser werden und was läuft bereits gut? Macht mit und gewinnt tolle Preise! ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/9/3/7/b56964af110731da.jpg" length="10150"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/9/3/7/b56964af110731da.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Agrarhochschulranking-Benote-Deine-Hochschule-9145054.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Agrarhochschulranking-Benote-Deine-Hochschule-9145054.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 08:15:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[SOKO Tierschutz filmt Vergasung weiblicher Küken]]></title>
+			<description><![CDATA[Die Tötung von gesunden, weiblichen Hühnerküken hat nach eigener Aussage der Verein SOKO Tierschutz in der Brüterei Hölzl dokumentiert. Wie heimlich gedrehte Videos zeigen sollen, sei das Vergasen von Küken dort Routine. Ebenso kritisiert der Verein lange Tiertransporte und das Schnabelkürzen. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/8/7/0186e39d474dc43c.jpg" length="12158"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/8/7/0186e39d474dc43c.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-SOKO-Tierschutz-filmt-Vergasung-weiblicher-Kueken-9145538.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-SOKO-Tierschutz-filmt-Vergasung-weiblicher-Kueken-9145538.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 08:09:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Landjugend-Vorstoß zur Hofabgabeklausel stößt auf Kritik]]></title>
+			<description><![CDATA[Dem aktuell vom Bund der Deutschen Landjugend veröffentlichten Positionspapier „Forderungen für die gemeinsame Agrarpolitik nach 2020“, begegnet der Arbeitskreis für die Abschaffung der Hofabgabeklausel mit Ablehnung.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/6/8/e9e1d079363c9492.jpg" length="14243"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/6/8/e9e1d079363c9492.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Landjugend-Vorstoss-zur-Hofabgabeklausel-stoesst-auf-Kritik-9145411.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Landjugend-Vorstoss-zur-Hofabgabeklausel-stoesst-auf-Kritik-9145411.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 06:57:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Trick ist die Kombi von Öko und konventionellem Anbau]]></title>
+			<description><![CDATA[Eine Studie der Universität Göttingen belegt, dass nur die Kombination von ökologischen und konventionellen Anbautechniken eine global nachhaltige Landwirtschaft garantieren kann. Agrarökonomen untersuchten dazu den Einfluss des Ökolandbaus auf Umwelt, Klima und Gesundheit in unterschiedlichen Teilen der Welt.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/6/2/271d03ad6e807910.jpg" length="69483"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/6/2/271d03ad6e807910.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Trick-ist-die-Kombi-von-Oeko-und-konventionellem-Anbau-9145369.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Trick-ist-die-Kombi-von-Oeko-und-konventionellem-Anbau-9145369.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 06:49:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Neue Lieferbeziehungen bei Obst und Gemüse nötig]]></title>
+			<description><![CDATA[Strategische Partnerschaften zwischen Händlern und Lieferanten von Obst und Gemüse werden immer wichtiger. Zu diesem Schluss kommt zumindest die Unternehmensberatung Oliver Wyman in dem neuen Trendreport „Störungen im Obst- & Gemüsevertrieb“.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/7/5/34b793ac4c587976.jpg" length="15621"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/7/5/34b793ac4c587976.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Neue-Lieferbeziehungen-bei-Obst-und-Gemuese-noetig-9145454.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Neue-Lieferbeziehungen-bei-Obst-und-Gemuese-noetig-9145454.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 07:42:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Krüsken: Landwirtschaft nicht in Handelsstreit hineinziehen]]></title>
+			<description><![CDATA[Der Generalsekretär des Deutschen Bauernverbandes (DBV), Bernhard Krüsken, hat die Befürchtung geäußert, dass auch die Landwirtschaft in den Handelsstreit der USA mit China, der Europäischen Union und anderen Ländern hineingezogen werden könnte. Dabei gehe es doch eigentlich um Industrieprodukte. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/7/7/ef342e2b20637e1a.jpg" length="11011"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/7/7/ef342e2b20637e1a.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Kruesken-Landwirtschaft-nicht-in-Handelsstreit-hineinziehen-9145468.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Kruesken-Landwirtschaft-nicht-in-Handelsstreit-hineinziehen-9145468.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 07:50:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Umstellung auf Ökolandbau ist ein Familienthema]]></title>
+			<description><![CDATA[Der Ökolandbau auf Deutschlands Höfen hat sich in den vergangenen Jahren langsam, aber stetig auf knapp 7,5 Prozent Anteil an der landwirtschaftlichen Nutzfläche erhöht. Er ist damit weit von der 2001 von der damaligen Landwirtschaftsministerin Renate Künast angestrebten 20 Prozent-Marke entfernt.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/7/4/1/6b02d32c93fbc6ec.jpg" length="14315"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/7/4/1/6b02d32c93fbc6ec.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Umstellung-auf-Oekolandbau-ist-ein-Familienthema-9144700.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Umstellung-auf-Oekolandbau-ist-ein-Familienthema-9144700.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 11:46:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Landwirtschaftsverbände stellen sich zu Brexit-Verhandlungen auf]]></title>
+			<description><![CDATA[Der britische sowie der walisische, schottische und nordirische Bauernverband haben ihre jeweiligen Landwirtschaftsminister ihrer Länder aufgefordert, bei der anstehenden Ausgestaltung der Agrarpolitik in Großbritannien zusammenzuarbeiten und Verbesserungen für den Sektor zu erreichen.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/8/0/4f71f24a372d5660.jpg" length="9657"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/8/0/4f71f24a372d5660.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Landwirtschaftsverbaende-stellen-sich-zu-Brexit-Verhandlungen-auf-9145489.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Landwirtschaftsverbaende-stellen-sich-zu-Brexit-Verhandlungen-auf-9145489.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 07:52:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Chef-Koordinator für Lebensmittelsicherheit ernannt]]></title>
+			<description><![CDATA[Das Bundesministerium für Ernährung und Landwirtschaft hat einen Chefkoordinator für Lebensmittelsicherheit ernannt.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/1/3/7/3df6dda9c513a654.jpg" length="31504"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/1/3/7/3df6dda9c513a654.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Chef-Koordinator-fuer-Lebensmittelsicherheit-ernannt-9145666.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Chef-Koordinator-fuer-Lebensmittelsicherheit-ernannt-9145666.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 08:51:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Grüne wollen Tierschutzniveau bei Lebendtiertransporten untersuchen]]></title>
+			<description><![CDATA[Die Grünen im Europäischen Parlament (EP) kritisieren die aus Ihrer Sicht bestehenden Tierschutzprobleme  bei Lebendtiertransporten auf Europas Straßen und beantragen einen Untersuchungsausschuss zu Lebendtiertransporten in der EU.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/4/0/4/2/331cf34a6ca35a29.jpg" length="7244"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/4/0/4/2/331cf34a6ca35a29.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Gruene-wollen-Tierschutzniveau-bei-Lebendtiertransporten-untersuchen-9145276.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Gruene-wollen-Tierschutzniveau-bei-Lebendtiertransporten-untersuchen-9145276.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 21:24:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Feuer im Landwirtschaftszentrum Aulendorf verursacht Millionenschaden]]></title>
+			<description><![CDATA[Am späten Sonntagabend ist das Landwirtschaftliche Zentrum Baden-Württemberg (LAZBW) in Aulendorf abgebrannt. Laut dem Schwäbischen Zeitung war das Feuer an einem Gebäude der Lehr- und Versuchsanstalt für Viehhaltung und Grünlandwirtschaft ausgebrochen. Nach erster Schätzung ist ein Schaden in Millionenhöhe entstanden.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/6/6/8/0e9cdcde76af471a.jpg" length="14303"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/6/6/8/0e9cdcde76af471a.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Feuer-im-Landwirtschaftszentrum-Aulendorf-verursacht-Millionenschaden-9144572.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Feuer-im-Landwirtschaftszentrum-Aulendorf-verursacht-Millionenschaden-9144572.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 10:49:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Keine Engpässe bei Saisonarbeitskräften]]></title>
+			<description><![CDATA[Zufrieden zeigt sich der Deutsche Bauernverband (DBV) mit der aktuellen Beschäftigungssituation in der Landwirtschaft. Man sehe derzeit keine Probleme, dass der Bedarf an Saisonarbeitskräften für die beginnende Saison nicht gedeckt werden könne, erklärte der DBV gegenüber AGRA-EUROPE.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/5/8/1/f35dea72853e52c8.jpg" length="15559"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/5/8/1/f35dea72853e52c8.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Keine-Engpaesse-bei-Saisonarbeitskraeften-9144293.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Keine-Engpaesse-bei-Saisonarbeitskraeften-9144293.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 08:10:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Bauern bekommen Mehrleistungen nicht bezahlt]]></title>
+			<description><![CDATA[Angesichts der Diskussion um eine Nationale Nutztierstrategie auf Bundesebene mahnt der ehemalige niedersächsische Landwirtschaftsminister Uwe Bartels eine fehlende finanzielle Honorierung des Mehraufwandes für höhere Umwelt- und Tierwohlstandards an.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/5/6/5/4b843b030f990026.jpg" length="14090"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/5/6/5/4b843b030f990026.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Bauern-bekommen-Mehrleistungen-nicht-bezahlt-9144264.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Bauern-bekommen-Mehrleistungen-nicht-bezahlt-9144264.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 07:56:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[DMK schließt Molkerei Bad Bibra ]]></title>
+			<description><![CDATA[Ende März hat die Burgenlandkäserei in Bad Bibra für immer ihre Tore geschlossen. 106 Arbeitsplätze sind damit bei Sachsen-Anhalts größter Molkerei weggefallen, obwohl der Betrieb bis zuletzt schwarze Zahlen geschrieben hatte, berichtet der MDR. Für die Region sei die Schließung ein herber Einschnitt, heißt es weiter.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/5/6/3/2b7feed767b7094a.jpg" length="43160"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/5/6/3/2b7feed767b7094a.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-DMK-schliesst-Molkerei-Bad-Bibra-trotz-Gewinn-9144250.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-DMK-schliesst-Molkerei-Bad-Bibra-trotz-Gewinn-9144250.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 10:12:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[CDU-Abgeordnete fordern wiederkehrende Zahlungen beim Stromtrassenbau]]></title>
+			<description><![CDATA[Der Druck auf die Bundesregierung wächst, die Bedingungen für die Grundbesitzer beim Energieleitungsausbau zu verbessern. Eine Gruppe von 13 CDU-Bundestagsabgeordneten fordert eine Lösung der Entschädigungsfrage sowie eine gesonderte Regelung für den naturschutzrechtlichen Ausgleich im Rahmen der Energiewende.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/6/3/3/f989822655f154ed.jpg" length="8222"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/6/3/3/f989822655f154ed.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-CDU-Abgeordnete-fordern-wiederkehrende-Zahlungen-beim-Stromtrassenbau-9144461.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-CDU-Abgeordnete-fordern-wiederkehrende-Zahlungen-beim-Stromtrassenbau-9144461.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 09:43:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Hunderte tote Schweine entdeckt]]></title>
+			<description><![CDATA[Auf einem Schweinemastbetrieb bei Gelchsheim im Landkreis Würzburg haben die Behörden am Freitag mehrere hundert verendete Schweine aufgefunden. Laut Landratsamt Würzburg liegen derzeit keine Hinweise auf das Verenden der Schweine durch eine Tierseuche vor. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/5/6/0/ec13717e2bfe176f.jpg" length="13082"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/5/6/0/ec13717e2bfe176f.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Hunderte-tote-Schweine-entdeckt-9144229.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Hunderte-tote-Schweine-entdeckt-9144229.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 07:28:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Beschäftigte der Milchwirtschaft zum Streik aufgerufen]]></title>
+			<description><![CDATA[Nicht nur im Öffentlichen Dienst wird diese Woche gestreikt, auch die Beschäftigten der Milchwirtschaft sind zum Arbeitskampf aufgerufen. Die Gewerkschaft Nahrung-Genuss-Gaststätten plant noch bis Mittwoch Warnstreiks in ganz NRW, unter anderem auch bei Friesland Campina. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/6/4/7/39b205f23c98c4a2.jpg" length="14825"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/6/4/7/39b205f23c98c4a2.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Beschaeftigte-der-Milchwirtschaft-zum-Streik-aufgerufen-9144514.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Beschaeftigte-der-Milchwirtschaft-zum-Streik-aufgerufen-9144514.html]]></link>
+			<pubDate>Tue, 10 Apr 2018 13:31:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Landwirt muss in Haft]]></title>
+			<description><![CDATA[Der Landwirt aus Schwandorf, der vergangenes Jahr betrunken mit seinem Schlepper zwei Polizisten überfahren wollte, muss für 4 Jahre 3 Monate in Haft. Das Landgericht in Amberg sprach ihn wegen zweifacher versuchter gefährlicher Körperverletzung, Trunkenheit am Steuer und Fahren ohne Fahrerlaubnis schuldig. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/5/5/6/a459fbf8e0897bc3.jpg" length="12884"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/5/5/6/a459fbf8e0897bc3.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Landwirt-muss-in-Haft-9144201.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Landwirt-muss-in-Haft-9144201.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 07:23:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Melkroboter: Guter Rat ist selten]]></title>
+			<description><![CDATA[Viele Melkroboter-Betriebe vermissen eine gute Rundum-Beratung. Sie wünschen sich individuelle Unterstützung von der Stallplanung bis zum Herdenmanagement. Die Erwartungen von Betriebsleitern an das Melken mit dem Roboter sind groß. Doch einige resümieren später für sich: So richtig läuft es nicht rund.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/3/1/9/b29326bd99060f22.jpg" length="16045"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/3/1/9/b29326bd99060f22.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Melkroboter-Guter-Rat-ist-selten-9143597.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Melkroboter-Guter-Rat-ist-selten-9143597.html]]></link>
+			<pubDate>Mon, 09 Apr 2018 09:25:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Strafsteuern auf Zucker machen nicht schlanker ]]></title>
+			<description><![CDATA[Die geplante Steuer auf zuckerhaltige Getränke in Großbritannien bringt die Debatte über eine Strafsteuer auf Zucker aktuell wieder nach Deutschland. Im Kampf gegen Übergewicht hilft diese jedoch nicht weiter, meint die Wirtschaftliche Vereinigung Zucker. Sie sei vielmehr kontraproduktiv.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/3/6/4/45e6797583cff21e.jpg" length="14662"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/3/6/4/45e6797583cff21e.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Strafsteuern-auf-Zucker-machen-nicht-schlanker-9143743.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Strafsteuern-auf-Zucker-machen-nicht-schlanker-9143743.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 15:17:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Der Automat läuft nicht von allein]]></title>
+			<description><![CDATA[Verkaufsautomaten für Eier, Milch und andere Hoferzeugnisse boomen. Wann sich die Anschaffung lohnt, und was Sie vor und beim Betrieb beachten müssen, zeigen wir am Beispiel eines Eierautomaten. Landwirt Jürgen Mayer überlegt schon länger, einen mobilen Hühnerstall anzuschaffen. ]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/3/2/8/b0cc7d91691154c3.jpg" length="9327"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/3/2/8/b0cc7d91691154c3.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Der-Automat-laeuft-nicht-von-allein-9143635.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Der-Automat-laeuft-nicht-von-allein-9143635.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 14:30:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Santiano-Gitarrist Hans-Timm Hinrichsen: Seebär mit Bodenhaftung]]></title>
+			<description><![CDATA[Hans-Timm Hinrichsen surft mit der Shanty-Folk-Rockband Santiano auf der Erfolgswelle. Trotz Millionen verkaufter CDs ist der Bauernsohn auf dem Boden geblieben. Christian Brüggemann hat sich mit ihm für die top agrar-Ausgabe 4/2018 getroffen. Moin! Hest gut herfunnen“, so begrüßt mich Hans-Timm Hinrichsen...]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/3/2/4/e1e844464e66d499.jpg" length="12532"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/3/2/4/e1e844464e66d499.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-SANTIANO-Gitarrist-Hans-Timm-Hinrichsen-Seebaer-mit-Bodenhaftung-9143617.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-SANTIANO-Gitarrist-Hans-Timm-Hinrichsen-Seebaer-mit-Bodenhaftung-9143617.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 14:23:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Was wäre, wenn es Agrarprämien nur bis zur Rente gibt?]]></title>
+			<description><![CDATA[Was wäre, wenn die Direktzahlungen nur bis zum gesetzlichen Renteneintrittsalter gewährt würden? Das haben sich die Junglandwirte im Bund der Deutschen Landjugend (BDL) e.V. gefragt.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/2/6/7/9223f0a29efaa7ca.jpg" length="12268"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/2/6/7/9223f0a29efaa7ca.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Was-waere-wenn-es-Agrarpraemien-nur-bis-zur-Rente-gibt-9143484.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Was-waere-wenn-es-Agrarpraemien-nur-bis-zur-Rente-gibt-9143484.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 13:39:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Backhaus: Stimmung bei den Bauern gedrückt]]></title>
+			<description><![CDATA[Auf den Höfen ist spätestens nach dem Schneechaos am Osterwochenende gedrückt. Viele Bauern hätten die Hoffnungen auf ein gutes Erntejahr vorerst begraben, sagte Dr. Till Backhaus. „Unsere Landwirte fürchten die dritte schlechte Ernte in Folge.“ Auch die Lage am Milchmarkt gebe Grund zur Sorge.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/3/5/1/31c4e369190bf6a7.jpg" length="13220"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/3/5/1/31c4e369190bf6a7.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Backhaus-Stimmung-bei-den-Bauern-gedrueckt-9143701.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Backhaus-Stimmung-bei-den-Bauern-gedrueckt-9143701.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 15:07:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Früher gegen Atomenergie, heute gegen Landwirtschaft]]></title>
+			<description><![CDATA[Das Jahr 2017 brachte für die Bauern einige Schwierigkeiten mit sich: Viel Regen, die steigende Bedrohung durch die ASP, noch mehr Bürokratie, häufige Hilflosigkeit bezüglich der Auswirkungen von Wölfen, Bibern oder sogar Nandus, sagte Mecklenburg-Vorpommerns Bauernpräsident Detlef Kurreck auf dem Bauerntag in Linstow.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/3/3/2/c7f470e7934535c8.jpg" length="14195"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/3/3/2/c7f470e7934535c8.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Frueher-gegen-Atomenergie-heute-gegen-Landwirtschaft-9143651.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Frueher-gegen-Atomenergie-heute-gegen-Landwirtschaft-9143651.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 15:08:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Neuartiger Schutzüberzug soll Obst und Gemüse deutlich länger haltbar machen]]></title>
+			<description><![CDATA[Einen essbaren, geschmacklosen und unsichtbaren Schutzüberzug für Obst und Gemüse hat der Wissenschaftler James Rogers mit seiner Firma Apeel entwickelt. Die Beschichtung namens Edipeel soll die Produkte doppelt so lange nach der Ernte frisch halten, heißt es. Aktuell arbeite man daran, die Lagerzeit zu vervierfachen.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/3/0/3/7/2d26ba0e18df23f9.jpg" length="13120"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/3/0/3/7/2d26ba0e18df23f9.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Neuartiger-Schutzueberzug-soll-Obst-und-Gemuese-deutlich-laenger-haltbar-machen-9143029.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Neuartiger-Schutzueberzug-soll-Obst-und-Gemuese-deutlich-laenger-haltbar-machen-9143029.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 08:39:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Wirtschaftlichkeit und gesellschaftliche Akzeptanz größte Herausforderungen für Landwirte ]]></title>
+			<description><![CDATA[Über 70 Prozent der Landwirte sehen in den Produktionskosten und der Sicherung der Zahlungsfähigkeit sowie in der gesellschaftlichen Akzeptanz die größten Herausforderungen für die Zukunft.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/5/7/6/f45f49e4557546e3.jpg" length="13400"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/5/7/6/f45f49e4557546e3.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Wirtschaftlichkeit-und-gesellschaftliche-Akzeptanz-groesste-Herausforderungen-fuer-Landwirte-9142078.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Wirtschaftlichkeit-und-gesellschaftliche-Akzeptanz-groesste-Herausforderungen-fuer-Landwirte-9142078.html]]></link>
+			<pubDate>Thu, 05 Apr 2018 19:49:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Bauern haben genug von immer neuen Kennzeichnungen]]></title>
+			<description><![CDATA[Peter Hoffmann, Präsident des saarländischen Bauernverbandes, kritisiert die Flut der Kennzeichnungen und Labels für landwirtschaftliche Produkte scharf.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/6/3/1/44a3e6bc383a1a35.jpg" length="12306"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/6/3/1/44a3e6bc383a1a35.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Bauern-im-Saarland-haben-genug-von-immer-neuen-Kennzeichnungen-9142198.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Bauern-im-Saarland-haben-genug-von-immer-neuen-Kennzeichnungen-9142198.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 08:43:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[RBB-Meldung zur Größe von Öko-Hühnerställen sorgt für Verwirrung]]></title>
+			<description><![CDATA[Für Verwirrung in der Ökobranche haben Medienberichte gesorgt, nach denen die EU-Bioverordnung maximal 3.000 Legehennen pro Stall erlaube. Der RBB hatte dazu veröffentlicht, dass nach seinen Recherchen 90 % aller Bioeier in Brandenburg aus Großbetrieben mit mehr als 30.000 Hühnern kommen, die nur eine kennzahl haben.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/8/4/1/ed3504313afa0f80.jpg" length="57767"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/8/4/1/ed3504313afa0f80.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Muessen-Biohennen-Staelle-bald-pro-3-000-Tiere-eine-eigene-Kennnummer-tragen-9142485.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Muessen-Biohennen-Staelle-bald-pro-3-000-Tiere-eine-eigene-Kennnummer-tragen-9142485.html]]></link>
+			<pubDate>Fri, 06 Apr 2018 13:29:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Auswirkungen der neuen EU-Datenschutzgrundverordnung auf Ihren Betrieb]]></title>
+			<description><![CDATA[Seit einigen Wochen mehren sich die Vorkehrungen, die ab dem 25. Mai 2018 zwingend geltende EU-Datenschutzgrundverordnung auch in landwirtschaftlichen Betrieben umzusetzen. Obwohl viele Fragen noch ungeklärt sind, müssen sich Bauern, die Daten ihrer Kunden nutzen, mit der Umsetzung der Verordnung beschäftigen.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/8/6/5/6eee12da6d2049e8.jpg" length="46118"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/8/6/5/6eee12da6d2049e8.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Auswirkungen-der-neuen-EU-Datenschutzgrundverordnung-auf-Ihren-Betrieb-9142584.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Auswirkungen-der-neuen-EU-Datenschutzgrundverordnung-auf-Ihren-Betrieb-9142584.html]]></link>
+			<pubDate>Thu, 05 Apr 2018 14:29:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[BBV verlangt von Grünen fairen Umgang statt Kampfbegriffe]]></title>
+			<description><![CDATA[Bayerns Bauernpräsident Walter Heidl und BBV-Generalsekretär Georg Wimmer haben von den Grünen im Landtag eine sachlich fundierte Diskussion zur Arbeit im Stall und auf den Feldern gefordert.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/8/5/5/c545d2af489f6ea0.jpg" length="25160"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/8/5/5/c545d2af489f6ea0.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-BBV-verlangt-von-Gruenen-fairen-Umgang-statt-Kampfbegriffe-9142540.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-BBV-verlangt-von-Gruenen-fairen-Umgang-statt-Kampfbegriffe-9142540.html]]></link>
+			<pubDate>Thu, 05 Apr 2018 14:18:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Saarländische Bauern warten noch auf Greening-Prämie]]></title>
+			<description><![CDATA[Die Bauern im Saarland sind sauer: Ihre längst bewilligte Greening-Prämie ist immer noch nicht ausgezahlt. Laut dem Bauernverband geht es um knapp 7 Mio. Euro, die seit 3 Monaten auf den Konten der Bauern sein müssten. Nach Informationen des SR ist das zuständige Umweltministerium offensichtlich überlastet.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/8/1/6/64c56a440d4f6ad5.jpg" length="13302"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/8/1/6/64c56a440d4f6ad5.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Saarlaendische-Bauern-warten-noch-auf-Greening-Praemie-9142427.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Saarlaendische-Bauern-warten-noch-auf-Greening-Praemie-9142427.html]]></link>
+			<pubDate>Thu, 05 Apr 2018 13:36:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Landwirtschaftspolitik ohne Landwirte?]]></title>
+			<description><![CDATA[Ein Kommentar von BBV-Generalsekretär Georg Wimmer: Wenn am kommenden Dienstag der Landesbund für Vogelschutz, der Bayerische Jagdverband und der Landesfischereiverband Bayern in Brüssel über die gemeinsame Landwirtschaftspolitik in der EU nach 2020 diskutieren, fehlen ausgerechnet die, um die es geht: die Landwirte.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/8/5/2/7959ed479f75e85c.jpg" length="15295"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/8/5/2/7959ed479f75e85c.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Landwirtschaftspolitik-ohne-Landwirte-9142525.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Landwirtschaftspolitik-ohne-Landwirte-9142525.html]]></link>
+			<pubDate>Thu, 05 Apr 2018 14:10:00 +0200</pubDate>
+		</item>
+				<item>
+			<title><![CDATA[Freihandelsabkommen: Köstinger verlangt Einhaltung der europäischen Standards ]]></title>
+			<description><![CDATA[Bei den geplanten Freihandelsabkommen der EU pocht Österreichs Landwirtschaftsministerin Elisabeth Köstinger auf die Einhaltung der europäischen Standards. So gebe es etwa bei Mercosur noch zahlreiche offene Fragen, dies vor allem bezüglich Rückverfolgbarkeit der Produkte und Hormonfreiheit, berichtet aiz.info.]]></description>
+            <enclosure type="image/jpeg" url="https://www.topagrar.com/imgs/2/4/0/2/9/8/8/35abf4bf95bdec6f.jpg" length="10130"/>
+			<image><![CDATA[https://www.topagrar.com/imgs/2/4/0/2/9/8/8/35abf4bf95bdec6f.jpg]]></image>
+			<guid><![CDATA[https://www.topagrar.com/news/Home-top-News-Freihandelsabkommen-Koestinger-verlangt-Einhaltung-der-europaeischen-Standards-9142899.html]]></guid>
+			<link><![CDATA[https://www.topagrar.com/news/Home-top-News-Freihandelsabkommen-Koestinger-verlangt-Einhaltung-der-europaeischen-Standards-9142899.html]]></link>
+			<pubDate>Thu, 05 Apr 2018 19:55:00 +0200</pubDate>
+		</item>
+			</channel>
 </rss>
