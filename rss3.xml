@@ -4,12 +4,14 @@
     <ttl>30</ttl>
     <item>
       <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
-      <title>Amazon Developer Blog, week in review May 23rd</title>
+      <title>Earthcon Expo</title>
       <link>https://developer.amazon.com/public/community/blog</link>
       <pubDate>2018-04-27T00:00:00.0Z</pubDate>
       <description>
-        Meet Echosim. A new online community tool for developers that simulates the look and feel of an Amazon Echo. With 3D JavaScript animations and Alexa Voice Service integration, Echosim gives users the ability to experience a realistic interaction with Alexa capabilities and skills. Echosim lives in your browser, so anyone, anywhere can access it and test their Alexa skills.
-        You no longer need an Alexa device to test your skills. Developers worldwide can use Echosim to experience Alexa.
+        
+      The Earthcon Expo provides the attendees with the opportunity to learn latest trends and engage with manufacturers and suppliers directly, connect with construction professionals from exhibitors, distributors to key buyers and industry figures, gain access to local market dynamics, investors, and niche providers that enhance product offerings, and much more.
+        Timings 09:00 AM-06:00 PM (expected)
+      
       </description>
      </item>
   </channel>
