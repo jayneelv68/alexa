@@ -2,10 +2,25 @@
 <rss version="2.0">
   <channel>
     <ttl>30</ttl>
-    <item>
+    
+     <item>
       <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
+      <title>Sundeep Sharma Live!</title>
+      <link>www.jayneelvora.com</link>
+      <pubDate>2018-04-28T00:00:00.0Z</pubDate>
+      <description>
+        
+     
+This show is a laughter ride. Sundeep keeps shuffling between Mumbai and Delhi, and its after a long time that hes coming to Gujarat for a show. Completely focused on his life, his stand-up is a mix of chunks from his life and what he observes around all dripping with sarcasm. This, coupled with his ability to mimic voices and the art of impersonating the known political and apolitical characters, makes him a truly unique act to watch.
+        
+      
+      </description>
+     </item>
+    
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7f</guid>
       <title>Earthcon Expo</title>
-      <link>https://developer.amazon.com/public/community/blog</link>
+      <link>www.jayneelvora.com</link>
       <pubDate>2018-04-27T00:00:00.0Z</pubDate>
       <description>
         
@@ -14,5 +29,6 @@
       
       </description>
      </item>
+    
   </channel>
 </rss>
