@@ -9,12 +9,6 @@
       <description>This channel has multiple TTS RSS items. This is item one.</description>
       <guid>urn:uuid:b385254e-dc31-4c4a-afc5-0de97e43923c</guid>
     </item>
-    <item>
-      <title>Multi Item RSS (shajln</title>
-      <link>https://www.jayneelvora.com</link>
-      <pubDate>2018-04-28T00:00:00.0Z</pubDate>
-      <description>This channel has multiple TTS RSS items. This is item two.</description>
-      <guid>urn:uuid:cf093eed-66f2-4dee-bdad-02ff0510194b</guid>
-    </item>
+   
   </channel>
 </rss>
