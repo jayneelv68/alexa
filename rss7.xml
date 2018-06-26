@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
+      <title>Communicating Transition from Prototyping to Production
+      </title>
+     <pubDate>2018-06-25T00:00:00.0Z</pubDate>
+      <description>
+      Another way to mitigate risk is clear communication when transferring designs to production status. 
+      Since prototype and/or pre-production controls are often not as strict as controls on production-level product, it is critical for the OEM to clearly communicate to the supplier the point in time at which production-level process controls are required. 
+      Failure to communicate this requirement could result in changes made to the process without adequate review and approval.
+      
+      </description>
+     </item>
+  </channel>
+</rss>
