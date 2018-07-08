@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
+      <title>Canine hearing testing and the role of otoacoustic emission tests 
+      </title>
+     <pubDate>2018-07-08T00:00:00.0Z</pubDate>
+      <description>
+     Deafness is a significant problem in certain breeds of dog, with as many as 30% of Dalmatians and 11% of bull terriers reported as having congenital deafness [1]. Over 80 other canine breeds have also been identified with inherited deafness. In many of these breeds the deafness is associated with genes conferring white skin pigmentation but the genetics is complex and genetic testing is not yet available. In addition to these inherited forms, acquired forms of hearing loss also occur in dogs due to ageing, exposure to ototoxic substances or loud noise and otitis interna. These acquired forms have been less extensively studied and their prevalence in the wider dog population is unknown.
+        
+      </description>
+     </item>
+  </channel>
+</rss>
