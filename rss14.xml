@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d7e</guid>
+      <title>Indian Elections 2019
+      </title>
+     <pubDate>2019-02-05T400:00:00.0Z</pubDate>
+      <description>
+     
+     India goes into elections this summer.
+      </description>
+     </item>
+  </channel>
+</rss>
